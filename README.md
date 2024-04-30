@@ -9,3 +9,5 @@ Overall, I had a really tough time with time. It was definitely a lesson learned
 
 My favorite trick that I learned was being able to add variables in VScode that then had a space to be changed directly in Unity. In the future, when I add more complex mechanics like damage to the game, I will definitely be using this feature to  easily test different values out. 
 
+I also learned a lot about frustration and failure. I attempted to implement a jumping animation, but I could not figure it out. That's the first thing that I will fix, but even if I didn't fix it yet, I learned a lot about debugging and not giving up. 
+
